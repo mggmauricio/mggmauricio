@@ -51,8 +51,8 @@ Building projects using:
 
 ## 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mggmauricio&show_icons=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mggmauricio&layout=compact&theme=dark" height="150" />
 </p>
 
 ---
