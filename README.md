@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Mauricio
 
-🚀 **Software Engineer | Robotics Specialist**  
+🚀 **Software Engineer**  
 🎯 Passionate about **AI, and Robotics**  
 📍 Currently exploring **Deep Reinforcement Learning (DRL)**  
 
